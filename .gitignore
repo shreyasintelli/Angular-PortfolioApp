@@ -1,0 +1,7 @@
+# Ignore node_modules in AngularPortfolio and PortfolioApi folders
+AngularPortfolio/node_modules/
+PortfolioApi/node_modules/
+
+# Ignore build directories
+dist/
+build/
